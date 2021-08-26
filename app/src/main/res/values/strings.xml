@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="label_business_cards">Cartão de visita</string>
+    <string name="label_description_new_card">Novo cartão</string>
+    <string name="label_list_cards">Lista de cartões</string>
+    <string name="label_name">Nome</string>
+    <string name="label_company">Empresa</string>
+    <string name="label_phone">Telefone</string>
+    <string name="label_email">E-mail</string>
+    <string name="label_cor">Cor</string>
+    <string name="label_save">Salvar</string>
+    <string name="label_close">Fechar</string>
+    <string name="label_show_success">Cartão cadastrado com sucesso.</string>
+    <string name="label_share">Compartilhar</string>
+    <string name="text_label_search">Pesquisar Cartão</string>
+    <string name="label_exit">Fechar</string>
+    <string name="label_color_button">Cor do botão</string>
+    <string name="label_button_add">Botão adicionar cartão</string>
+    <string name="imagem_logo">imagem fênix Logo</string>
+</resources>
